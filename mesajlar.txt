@@ -1,0 +1,2 @@
+[29.12.2022 13:53:02][Client][merhaba nasılsın]
+[29.12.2022 13:52:54][Server][ Server(cozulmus) - iyiyim sen nasılsın]
